@@ -1,0 +1,201 @@
+/* Danny O'Carroll
+   1863459 */
+
+/* Colors
+    Flat Chocolate: #A84800
+    Brick: #781800
+    Lager: #F0D860
+   Fonts
+    NewRocker
+
+    */
+*{
+    margin:0;
+    padding:0;
+}
+.wrapper {
+    margin:0 auto;
+    width:960px;
+}
+
+.header img {
+    width:300px;
+
+    padding:0;
+    margin:0;
+    height:200px;
+    margin-top:20px;
+}
+
+body {
+    background:linear-gradient(#ffffff, lightgreen);
+    background: -moz-linear-gradient(#ffffff, lightgreen); /* For Firefox 3.6 to 15 */
+    height: 1000px;
+}
+
+
+.header {
+    width:300px;
+    display:inline;
+    float:left;
+    margin-top:0;
+    margin-bottom:2%;
+}
+.leftnavbox {
+    width:300px;
+    float:left;
+    height:50px;
+    border-bottom:2px;
+    border-top:2px;
+    border:solid black;
+    border-right:0;
+    border-left:0;
+    text-align: center;
+    margin-right:2%;
+    margin-top:6%;
+    margin-left:16%;
+
+}
+.rightnavbox {
+    width:300px;
+    float:left;
+    height:50px;
+    border-bottom:2px;
+    border-top:2px;
+    border:solid black;
+    border-right:0;
+    border-left:0;
+    text-align: center;
+    display:inline;
+    margin-left:2%;
+    margin-top:6%;
+}
+h1 {
+    display: inline;
+    float:left;
+    color:#48036F;
+}
+
+ul li {
+    display:inline;
+    line-height: 50px;
+    margin-right:2%;
+    font-size: 1.5em;
+    font-weight: bolder;
+    color:#48036F;
+}
+
+.bright {
+    transition: color linear 1s;
+    color:#ffffff;
+
+}
+
+.bright:hover {
+    color:orange;
+}
+
+a:link, :visited {
+    text-decoration: none;
+    color:#48036F;
+    transition: color linear 1s;
+}
+a .imgbox h1 {
+    color:#48036F;
+    transition: color linear 1s;
+}
+a .imgbox h1:hover {
+    color:orange;
+}
+a:hover {
+    color:lightgreen;
+}
+
+.ctabox {
+    width:98%;
+    padding-top:2%;
+    padding-left:4%;
+}
+
+.imgbox h1{
+    width:100%;
+    font-weight: bold;
+    color:black;
+    font-size:2em;
+    text-align: center;
+}
+
+
+.imgbox img {
+    border: 4px solid black;
+    border-radius: 20px;
+    width:100%;
+    height:150px;
+}
+
+.imgbox {
+    width:27%;
+    display: inline-block;
+    margin-left:8%;
+    margin-top:2%;
+}
+
+.first {
+    margin:0;
+}
+
+footer {
+    margin-top:2%;
+    text-align: center;
+    width:100%;
+    color:#48036F;
+    font-weight: bolder;
+}
+
+
+.slider {
+    margin:0;
+    width: 100%; /* Update to your slider width */
+    height: 400px; /* Update to your slider height */
+    position: relative;
+    overflow: hidden;
+    border-top:solid 5px black;
+    border-bottom:solid 5px black;
+}
+
+.slider li {
+    width:100%;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin:0;
+    padding:0;
+
+}
+.slider li img {
+    height:400px;
+    width:100%;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: black;
+    width:100%;
+    height:100px;
+    line-height:100px;
+    color:lightgreen;
+    font-weight: bolder;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 2em;
+
+}
+
+.gold {
+    transition:color linear 2s;
+}
+
+.gold:hover {
+    color:gold;
+}
