@@ -47,7 +47,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="190" column="16" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.5857418" vertical-offset="2736" max-vertical-offset="3296">
+            <state line="190" column="21" selection-start="2871" selection-end="2871" vertical-scroll-proportion="0.61657035" vertical-offset="2720" max-vertical-offset="3296">
               <folding />
             </state>
           </provider>
@@ -253,7 +253,11 @@
       <created>1393532855589</created>
       <updated>1393532855589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sharing commit&#10;">
+      <created>1393533593851</created>
+      <updated>1393533593851</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +297,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Sharing commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sharing commit" />
+    <MESSAGE value="Sharing commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sharing commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -322,7 +327,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="190" column="16" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.5857418" vertical-offset="2736" max-vertical-offset="3296">
+        <state line="190" column="21" selection-start="2871" selection-end="2871" vertical-scroll-proportion="0.61657035" vertical-offset="2720" max-vertical-offset="3296">
           <folding />
         </state>
       </provider>
