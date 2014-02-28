@@ -105,7 +105,7 @@ a .imgbox h1 {
     transition: color linear 1s;
 }
 a .imgbox h1:hover {
-    color:orange;
+    color:black;
 }
 a:hover {
     color:cyan;

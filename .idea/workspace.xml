@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2de795c1-35f7-4ad5-bdf6-06862937c8c5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Handmade_Oasis_logo.gif" afterPath="$PROJECT_DIR$/images/Handmade_Oasis_logo.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -48,7 +47,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="187" column="14" selection-start="2750" selection-end="2750" vertical-scroll-proportion="0.41425818" vertical-offset="2777" max-vertical-offset="3296">
+            <state line="107" column="15" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.35260117" vertical-offset="1529" max-vertical-offset="3296">
               <folding />
             </state>
           </provider>
@@ -262,7 +261,11 @@
       <created>1393533967972</created>
       <updated>1393533967972</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sharing commit&#10;">
+      <created>1393547446607</created>
+      <updated>1393547446607</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -332,7 +335,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="14" selection-start="2750" selection-end="2750" vertical-scroll-proportion="0.41425818" vertical-offset="2777" max-vertical-offset="3296">
+        <state line="107" column="15" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.35260117" vertical-offset="1529" max-vertical-offset="3296">
           <folding />
         </state>
       </provider>
